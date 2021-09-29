@@ -1,6 +1,7 @@
 # Kaggle-House-Price-Predict
 2021/9  房價預測練習
-
+original markdown pages:
+    https://capricious-eocursor-7b0.notion.site/Kaggle-734e0b7f39464bc1b16c5e6e7f813a20
 ## 一、導入資料(Input Data)
 
 - 資料來源
@@ -390,3 +391,4 @@ data_all[i] = np.log1p(data_all[i])
     
 
 ### Source Code
+https://github.com/TSAI-CHEN-YU/Kaggle-House-Price-Predict/
